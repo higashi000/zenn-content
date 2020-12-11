@@ -21,7 +21,7 @@ published: true
 こちらです！
 Vim対応もしたかったのですが現在Neovimのみの対応となっています。
 [noachat.nvim](https://github.com/higashi000/noachat.nvim)
-![画像](https://gyazo.com/de5b59d3ca11f7555c350497be9f22c4)
+[![Image from Gyazo](https://i.gyazo.com/de5b59d3ca11f7555c350497be9f22c4.gif)](https://gyazo.com/de5b59d3ca11f7555c350497be9f22c4)
 
 # 解説
 リアルタイムチャットをできるようにしてみました。
